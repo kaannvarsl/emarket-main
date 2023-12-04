@@ -44,7 +44,12 @@ yarn ios
 
 
 ```
-<img src="![Simulator Screenshot - iPhone 14 Pro Max - 2023-12-04 at 16 13 32](https://github.com/kaannvarsl/emarket-main/assets/94809549/99df7e78-6783-443f-bbd7-1f148e1d7c2d)" alt="iOS" width="300" height="200"> -->
+##iOs
+![iOS](https://github.com/kaannvarsl/emarket-main/assets/94809549/99df7e78-6783-443f-bbd7-1f148e1d7c2d)
+
+
+<img src="https://github.com/kaannvarsl/emarket-main/assets/94809549/99df7e78-6783-443f-bbd7-1f148e1d7c2d" alt="iOS" width="300" height="200">
+
 
 
 
