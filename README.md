@@ -42,8 +42,9 @@ npm run ios
 yarn ios
 
 
-```
-![Screenshot_1701695752](https://github.com/kaannvarsl/emarket-main/assets/94809549/53ebef75-2be1-4e96-a311-9bf9bc9aeaef)
 
-![Screenshot_1701695756](https://github.com/kaannvarsl/emarket-main/assets/94809549/64e7cac7-7ad8-4f98-b06d-eb8f1427acf8)
+```
+<img src="![Simulator Screenshot - iPhone 14 Pro Max - 2023-12-04 at 16 13 32](https://github.com/kaannvarsl/emarket-main/assets/94809549/99df7e78-6783-443f-bbd7-1f148e1d7c2d)" alt="iOS" width="300" height="200"> -->
+
+
 
