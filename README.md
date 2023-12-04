@@ -44,11 +44,10 @@ yarn ios
 
 
 ```
-##iOs
-![iOS](https://github.com/kaannvarsl/emarket-main/assets/94809549/99df7e78-6783-443f-bbd7-1f148e1d7c2d)
 
 
-<img src="https://github.com/kaannvarsl/emarket-main/assets/94809549/99df7e78-6783-443f-bbd7-1f148e1d7c2d" alt="iOS" width="300" height="200">
+##iOS
+<img src="https://github.com/kaannvarsl/emarket-main/assets/94809549/99df7e78-6783-443f-bbd7-1f148e1d7c2d" alt="iOS" width="350" height="650">
 
 
 
